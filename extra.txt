@@ -1,0 +1,16 @@
+<li class="nav-item">
+                        <a class="nav-link disabled">Disabled</a>
+</li>
+
+
+
+"ar"  also on top
+ dir="ltr" on top 
+
+
+
+<p class="float-right"><a href="#">Back to top</a></p>
+        <p>© 2022 iCoder Company, Inc. All rights reserved. <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+
+
+https://source.unsplash.com/random/500x700/?coding
